@@ -6,4 +6,5 @@ Dependencies: WikipediaAPI, PySimpleGUI.
 Installation:
 
 $ pip3 install wikipediaapi
+
 $ pip3 install pysimplegui
